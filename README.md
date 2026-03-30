@@ -56,3 +56,4 @@ title('magnitude response butterworth LPF');
 <img width="1600" height="941" alt="image" src="https://github.com/user-attachments/assets/6dc9d59a-d2d1-4440-988a-ae0eaf39b771" />
 
 ## RESULT:
+<img width="1280" height="618" alt="image" src="https://github.com/user-attachments/assets/77d1bd7c-c8cb-485d-90ad-b57fd30a6c8c" />
